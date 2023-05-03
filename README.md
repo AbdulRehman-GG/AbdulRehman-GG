@@ -1,6 +1,6 @@
 <div align="center">
   <a href="[https://github.com/Ferks-FK](https://github.com/AbdulRehman-GG)">
-
+<img src="https://lanyard.cnrad.dev/api/666081581257195540" alt="">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferks-FK&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
