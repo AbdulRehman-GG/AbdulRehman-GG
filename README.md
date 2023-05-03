@@ -1,7 +1,7 @@
 <div align="center">
   <a href="[https://github.com/Ferks-FK](https://github.com/AbdulRehman-GG)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferks-FK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferks-FK&layout=compact&langs_count=7&theme=dark"/>
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferks-FK&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="AbdulRehman-GG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +12,7 @@
 </div>
 <br>
 <div> 
- <a href="https://discord.gg/buDBbSGJmQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/hTtBBFmjV6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:fernandokaiquecnp2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <p align="center">Visitors</p>
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/Ferks-FK/count.svg"/></p>
